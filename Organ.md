@@ -1,36 +1,27 @@
 #SureDone
 
-## Bugs
+## _Bugs_
 
-- Big Commerce
+- _Big Commerce_
     @15:30
     - look into big commerce issue
     - Document our big commerce integration
-- ~~Fix it~~
-- ~~Test fix~~
-- ~~Create pull request against v2.24-stage~~
-- ~~SD-753 Export Fail~~
 
 ## DevOps
 
 __Release__
 
-- ~~Create v2.25-stage from master~~
-- ~~Rebase v2.24-stage~~
-- ~~Code Review~~
-- ~~Deploy~~
+- Look out for hotfix coming into master and rebase
+- ~~Fix the deployment process~~
 
 __Dev Cycle__
 
 - Nightly build for staging
     - Figure out how the fuck to make that happen
-    - ~~Ask Ryan if it's a good~~
 - Come up with a good code freeze/ release schedule
-- ~~Run this by Jason, Pat, Ryan~~
 
 __Build__
 
-- Asset bundler
 - Find that page Jake made for post-release of v2.23 and try and get that in
 - Remove `wwwui`
 - Remove `plugins/bootstrap/external`
@@ -45,8 +36,8 @@ __Extra__
 
 ## Sound
 
-- Figure out pedal chain
 - Get details about Gowanus Prod Studio
+- ~~Figure out pedal chain~~
 
 ## Songs
 
@@ -90,7 +81,7 @@ __Brunsaroo__
   [New Brunswick]
 
 - Record songs
-- Wait for Jeff to get back to you
+- ~~Wait for Jeff to get back to you~~
 
 ## Albums
 
@@ -100,7 +91,7 @@ __Brunsaroo__
 
 ## DIY Music Scene Website
 
-- _Get a working environment going_
+- Get a working environment going
 
 ## Opt Into Messages
 
