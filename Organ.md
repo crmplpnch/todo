@@ -3,7 +3,7 @@
 ## _Bugs_
 
 - _Big Commerce_
-    @15:30
+    All day
     - look into big commerce issue
     - Document our big commerce integration
 
@@ -33,18 +33,29 @@ __Extra__
 - Set up new machine
 
 #LetterHead
+Cost: 35
+
+## Business
+
+- distrokid
+
+## Social media
+
+- Facebook page
+- Instagram page
 
 ## Sound
 
-- Get details about Gowanus Prod Studio
+- ~~pedal stamp~~
 - ~~Figure out pedal chain~~
+- ~~Rimshot instead of 808 snare~~
 
 ## Songs
 
 __Grain__
 
 - lyrics
-- Figure out how to fit maschine in
+- ~~Figure out how to fit maschine in~~
 
 ## Merch
 
@@ -68,12 +79,12 @@ __Meatlocker__
   [20:30,00:30]
   [Montclair]
 
-- Figure out car rental
 - Find out what time letterhead is on
 - Bring tech deck
 - Bring SSB medal
 - Write thank you letters to everyone there
 - Website stuff
+- ~~Figure out car rental~~
 
 __Brunsaroo__
 
@@ -87,7 +98,9 @@ __Brunsaroo__
 
 - Listen to all your songs and see what goes together
 
-# CrumplePunch
+# BitterSpit
+
+##
 
 ## DIY Music Scene Website
 
@@ -96,3 +109,4 @@ __Brunsaroo__
 ## Opt Into Messages
 
 - See if fb messenger has an RSS feed
+
