@@ -2,7 +2,7 @@
 
 ## _Bugs_
 
-- Big Commerce
+_Big Commerce_
     All day
     - look into big commerce issue
     - Document our big commerce integration
@@ -12,6 +12,7 @@
 __Release__
 
 - Look out for hotfix coming into master and rebase
+- ~~Rebase v2.25-stage with master~~
 - ~~Fix the deployment process~~
 
 __Dev Cycle__
@@ -39,6 +40,24 @@ __Extra__
 
 - distrokid
 
+## Twitter
+
+3 updates a day
+3 updates a day
+3 updates a day
+
+- Figure out who you're audience is
+
+## Soundcloud
+
+- Put up a song
+- Follow 10 people a day
+- Like 20 things a day
+
+## Facebook
+
+Aggregate other social media
+
 ## Social media
 
 - Facebook page
@@ -54,8 +73,6 @@ __Extra__
 __Grain__
 
 - lyrics
-
-
 
 ## Merch
 
@@ -108,4 +125,3 @@ __Brunsaroo__
 ## Opt Into Messages
 
 - See if fb messenger has an RSS feed
-
