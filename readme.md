@@ -47,18 +47,15 @@ __Extra__
 
 ## Sound
 // Cost: 2163
-
-- ~~pedal stamp~~
-- ~~Figure out pedal chain~~
-- ~~Rimshot instead of 808 snare~~
-- ~~Kauer Guitar~~
+- Figure out how to fit maschine in
 
 ## Songs
 
 __Grain__
 
 - lyrics
-- ~~Figure out how to fit maschine in~~
+
+
 
 ## Merch
 
