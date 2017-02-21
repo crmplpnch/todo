@@ -2,7 +2,7 @@
 
 ## _Bugs_
 
-- _Big Commerce_
+- Big Commerce
     All day
     - look into big commerce issue
     - Document our big commerce integration
@@ -31,9 +31,9 @@ __Build__
 __Extra__
 
 - Set up new machine
+- Work from home on Thursday
 
 #LetterHead
-Cost: 35
 
 ## Business
 
@@ -43,12 +43,15 @@ Cost: 35
 
 - Facebook page
 - Instagram page
+- ~~Photoshoot~~
 
 ## Sound
+// Cost: 2163
 
 - ~~pedal stamp~~
 - ~~Figure out pedal chain~~
 - ~~Rimshot instead of 808 snare~~
+- ~~Kauer Guitar~~
 
 ## Songs
 
@@ -60,11 +63,12 @@ __Grain__
 ## Merch
 
 [Everything sold has to be branded like letters]
+[Sell MKs stuff at your shows]
 
 __Pins__
 
 - Design
-- Hit MK up
+- Mention stuff to MK when you're in philly
 
 __Tech Decks__
 
@@ -74,6 +78,7 @@ __Tech Decks__
 ## Shows
 
 __Meatlocker__
+// Cost: 39.50
 
   [2.23]
   [20:30,00:30]
@@ -83,8 +88,7 @@ __Meatlocker__
 - Bring tech deck
 - Bring SSB medal
 - Write thank you letters to everyone there
-- Website stuff
-- ~~Figure out car rental~~
+- Learn the songs. ( 17 minute set )
 
 __Brunsaroo__
 
@@ -99,8 +103,6 @@ __Brunsaroo__
 - Listen to all your songs and see what goes together
 
 # BitterSpit
-
-##
 
 ## DIY Music Scene Website
 
